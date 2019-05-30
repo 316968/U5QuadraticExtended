@@ -1,4 +1,10 @@
-﻿using System;
+/*quinn parker-joyes
+may 30 2019
+ics4u
+quadratic extended. shows zeroes for equation and draws parabola
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
